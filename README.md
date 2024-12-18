@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rjrizani
-- 👀 I’m interested in front web devlopment and data science
-- 🌱 I’m currently learning react Js and data analysis
-- 💞️ I’m looking to collaborate to everyone
+- 👀 I’m interested in Python stack
+- 🌱 I’m currently learning data scraping while teaching code to kids
+- 💞️ I’m looking to collaborate with everyone
 - 
 
 <!---
