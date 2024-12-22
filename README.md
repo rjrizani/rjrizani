@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rjrizani
-- 👀 I’m interested in Python stack
+- 👀 I’m interested in Python and Javascript
 - 👀 I’m coding teacher for kids
 - 💞️ I’m looking to collaborate with everyone
   
