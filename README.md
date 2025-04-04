@@ -17,6 +17,7 @@ Check out my portfolio and projects below:
 
 - [My Portfolio](https://rjrizani.github.io/portofolio_basic/)
 - [My Python flask Projects](https://rjscrapy.pythonanywhere.com/)
+- [medium articles](https://medium.com/@rjrizani_66086)
 
 <!---
 rjrizani/rjrizani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
