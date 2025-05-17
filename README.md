@@ -19,6 +19,9 @@ Check out my portfolio and projects below:
 - [My Python flask Projects](https://rjscrapy.pythonanywhere.com/)
 - [medium articles](https://medium.com/@rjrizani_66086)
 
+- https://house-price-predic.streamlit.app/
+- https://rjscrapy-youtube-dashboard.streamlit.app/
+
 <!---
 rjrizani/rjrizani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
