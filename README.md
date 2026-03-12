@@ -15,8 +15,7 @@ Hi, I’m @rjrizani 👋
 
 Check out my portfolio and projects below:
 
-- [My Portfolio](https://rjrizani.github.io/portofolio_basic/)
-- [My Python flask Projects](https://rjscrapy.pythonanywhere.com/)
+- [My Portfolio](https://www.rizani.site/)
 - [medium articles](https://medium.com/@rjrizani_66086)
 
 - https://house-price-predic.streamlit.app/
