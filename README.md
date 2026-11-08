@@ -64,11 +64,7 @@ Bisa dipekerjakan melalui jaminan transaksi aman [Fastwork (@rjrizani)](https://
 
 ### 📊 Statistik Real-Time GitHub
 
-<div align="center">
-  <!-- GitHub Activity Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rjrizani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistik GitHub rjrizani" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjrizani&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Pemrograman Paling Sering Digunakan" height="160" />
-</div>
+
 
 <div align="center" style="margin-top: 10px;">
   <!-- GitHub Streak Counter -->
